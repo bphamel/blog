@@ -1,0 +1,5 @@
+Créer un composant authentification dans le projet de la librairie ici il s'agit de showcase pour démontrer les différents widgets de la librairie.
+ng g c authentification --project=showcase
+
+Créer un composant authentification dans le projet de la librairie il s'agit de commun-ui et localiser le composant dans le dossier widgets
+ng g c widgets/authentification --project=common-ui
